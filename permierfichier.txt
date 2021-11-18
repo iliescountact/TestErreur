@@ -1,3 +1,5 @@
 Salut je viens de faire une erreur dans la branche principale 
 
 Cette ligne doit apparaitre dans la branche 1
+
+Cetteligne est une erreur que je ne veux plus voir
